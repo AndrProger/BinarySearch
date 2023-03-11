@@ -23,6 +23,7 @@ public class BinarySearch {
         for (int i = 0; i < arr.length; i++) {
             result[i] = arr[i].doubleValue();
         }
+
         return result;
     }
 }
